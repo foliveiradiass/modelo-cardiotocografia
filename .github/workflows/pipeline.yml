@@ -76,3 +76,4 @@ jobs:
           - name: Train Model
             run: |
               python train.py
+
